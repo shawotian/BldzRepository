@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BldzPodLIb_Example' do
+  pod 'BldzPodLIb', :path => '../'
+
+  target 'BldzPodLIb_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
