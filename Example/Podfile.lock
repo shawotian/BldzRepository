@@ -1,0 +1,16 @@
+PODS:
+  - BldzPodLIb (0.1.0)
+
+DEPENDENCIES:
+  - BldzPodLIb (from `../`)
+
+EXTERNAL SOURCES:
+  BldzPodLIb:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BldzPodLIb: 85e57d6493576f2619735a0960c9cd1180479046
+
+PODFILE CHECKSUM: c9b539fed5b9542c26ef5cb490ff0eedfb6e1ff1
+
+COCOAPODS: 1.2.1

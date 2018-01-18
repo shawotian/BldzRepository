@@ -10,4 +10,6 @@
 
 @interface prefixWhatViewController : UIViewController
 
+@property(nonatomic,strong)NSString *testStr;
+
 @end

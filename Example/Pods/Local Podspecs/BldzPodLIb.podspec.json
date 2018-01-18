@@ -1,0 +1,22 @@
+{
+  "name": "BldzPodLIb",
+  "version": "0.1.0",
+  "summary": "A short description of BldzPodLIb.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shawotian/BldzPodLIb",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shawotian": "tianxiaoxiao@bldz.com"
+  },
+  "source": {
+    "git": "https://github.com/shawotian/BldzPodLIb.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BldzPodLIb/Classes/**/*"
+}
